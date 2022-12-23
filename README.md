@@ -1,4 +1,4 @@
-# LGMVIP-TASK_1
+# LGMVIP-TASK_1 (BEGINNER LEVEL)
 CURRENCY CONVERTOR :
 
 The purpose of this Java project is to convert a currency from one to another. We see variations with different countries using different currencies.
